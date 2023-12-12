@@ -2,7 +2,7 @@ ApproxLatCount (ALC) is a tool for lattices counting problem over linear constra
 All experimental data including source codes of ALC and #SMT(LA)+ALC, and benchmarks, for AAAI2024 submission, can be found in "AAAI_Supplementary.7z".
 
 
-ALC relies on Armadillo and GLPK. To compile ApproxLatCount, build on Ubuntu simply type:
+ALC relies on Armadillo and GLPK. To compile ALC, build on Ubuntu simply type:
 
 ```bash
 sudo apt-get install g++
